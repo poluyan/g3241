@@ -2,6 +2,7 @@
 
 Ссылки на задания
 
+* [9. Разреженные матрицы.](https://vcs.uni-dubna.ru/kts/cpp/-/blob/main/tasks/task08.md)
 * [10. Класс строки и перегрузка операторов.](https://vcs.uni-dubna.ru/kts/cpp/-/blob/main/tasks/task06.md)
 * [12. Наследование.](https://vcs.uni-dubna.ru/kts/cpp/-/blob/main/tasks/task05.md)
 * [13. Алгоритмы STL и лямбда выражения.](https://vcs.uni-dubna.ru/kts/cpp/-/blob/main/tasks/task07.md)
